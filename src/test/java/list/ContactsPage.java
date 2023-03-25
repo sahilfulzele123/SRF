@@ -1,11 +1,11 @@
-package practice;
+package list;
 
 import org.testng.annotations.Test;
 
 public class ContactsPage {
 	
 	@Test
-	public void demo()
+	public void tester()
 	{
 		System.out.println("SOFTWARE TESTING");
 	}
