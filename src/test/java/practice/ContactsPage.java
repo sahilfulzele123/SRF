@@ -9,5 +9,11 @@ public class ContactsPage {
 	{
 		System.out.println("SOFTWARE TESTING");
 	}
+	
+	@Test
+	public void submit()
+	{
+		System.out.println("report submmited");
+	}
 
 }

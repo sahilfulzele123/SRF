@@ -9,5 +9,12 @@ public class OrganisationPage {
 	{
 		System.out.println("Devloper devloping application");
 	}
+	
+	
+	@Test
+	public void oppo()
+	{
+		System.out.println("oppo mobile");
+	}
 
 }
