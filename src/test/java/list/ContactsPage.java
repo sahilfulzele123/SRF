@@ -15,5 +15,11 @@ public class ContactsPage {
 	{
 		System.out.println("report submmited");
 	}
+	
+	@Test
+	public void main()
+	{
+		System.out.println("main method");
+	}
 
 }
