@@ -21,5 +21,11 @@ public class ContactsPage {
 	{
 		System.out.println("main method");
 	}
+	
+	@Test
+	public void car()
+	{
+		System.out.println("new car");
+	}
 
 }
